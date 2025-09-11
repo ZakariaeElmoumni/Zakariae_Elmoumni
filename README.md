@@ -25,5 +25,5 @@
 
 ## 📚 About Me
 
-- 🔭 Currently working on: a project for enhancing AI assisted human scoring in hiring with ObjectivEye.
+- 🔭 Currently working on: a project to enhance AI-assisted human scoring in hiring with ObjectivEye.
 - 🌱 Currently learning: [Technologies, languages, frameworks]  
