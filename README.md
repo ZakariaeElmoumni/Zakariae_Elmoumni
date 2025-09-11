@@ -1,5 +1,5 @@
 <h1>Hi, I'm Zakariae!</h1>
-<p>Welcome to my GitHub portfolio. Here you’ll find a selection of my projects, including both school and personal work, showcasing my skills in machine learning, data analytics, deep learning, and data science.</p>
+<p>Welcome to my GitHub portfolio! Here you’ll find a selection of my projects, including both school and personal work, showcasing my skills in AI and machine learning, data analytics, deep learning, and data science.</p>
 
 ---
 
