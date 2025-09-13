@@ -7,21 +7,23 @@
 
 ## 💻 Projects
 
-- **Project Name 1** _(School Project)_  
+- **ObjectivEye: AI-assisted human scoring in hiring (current)
+  - Brief description  
+  - [Link to code or project](#)
+
+- **Automated Plant Segmentation for NPEC: Enhancing Crop Analysis and Monitoring Using Computer Vision  
   - Brief description: what it does, technologies used  
   - [Link to code or project](#)
 
-- **Project Name 2** _(Personal Project)_  
+- **CIA (content intelligence agency) AI-Driven Emotion Classification for Content Intelligence Analysis  
   - Brief description: what it does, technologies used, what you learned  
   - [Link to code or project](#)
 
-- **Project Name 3** _(School Project)_  
+- **Emotion Recognition in Real-World Data: MarketResponse Facial Expression Classification
   - Brief description  
   - [Link to code or project](#)
 
-- **Project Name 4** _(Personal Project)_  
-  - Brief description  
-  - [Link to code or project](#)
+
 
 ---
 
