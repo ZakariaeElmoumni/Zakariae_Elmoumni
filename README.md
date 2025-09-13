@@ -28,15 +28,15 @@ Welcome to my GitHub portfolio! Here you’ll find a selection of my projects, s
 
 ## 💻 Projects
 
-- **ObjectivEye: AI-assisted Human Scoring in Hiring (Current)**  
+- **🧠 ObjectivEye: AI-assisted Human Scoring in Hiring (Current)**  
   [Link to code or project](#)
 
-- **Automated Plant Segmentation for NPEC: Enhancing Crop Analysis and Monitoring Using Computer Vision**  
-    - Developed a computer vision model to segment plants in field images for precise crop monitoring.  
+- **🌱 Automated Plant Segmentation for NPEC: Enhancing Crop Analysis and Monitoring Using Computer Vision**  
+    - Developed a computer vision model to segment plants in Petri dishes for precise crop monitoring.  
     - Leveraged deep learning techniques (e.g., U-Net, Mask R-CNN) for accurate plant segmentation.  
-    - Processed and annotated real-world agricultural datasets to improve model performance.  
+    - Processed and annotated real-world datasets to improve model performance.  
     - Implemented data augmentation and preprocessing to enhance model robustness.  
-    - Evaluated model performance using metrics such as IoU (Intersection over Union) and pixel accuracy.  
+    - Evaluated model performance using different metrics and pixel accuracy.  
     - Gained hands-on experience in Python, OpenCV, and deep learning frameworks.  
   [Link to code or project](#)
 
