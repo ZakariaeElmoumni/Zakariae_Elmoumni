@@ -32,21 +32,25 @@ Welcome to my GitHub portfolio! Here you’ll find a selection of my projects, s
   [Link to code or project](#)
 
 - **Automated Plant Segmentation for NPEC: Enhancing Crop Analysis and Monitoring Using Computer Vision**  
-  - Developed a computer vision model to segment plants in field images for precise crop monitoring.  
-  - Leveraged deep learning techniques (e.g., U-Net, Mask R-CNN) for accurate plant segmentation.  
-  - Processed and annotated real-world agricultural datasets to improve model performance.  
-  - Implemented data augmentation and preprocessing to enhance model robustness.  
-  - Evaluated model performance using metrics such as IoU (Intersection over Union) and pixel accuracy.  
-  - Gained hands-on experience in Python, OpenCV, and deep learning frameworks.  
+    - Developed a computer vision model to segment plants in field images for precise crop monitoring.  
+    - Leveraged deep learning techniques (e.g., U-Net, Mask R-CNN) for accurate plant segmentation.  
+    - Processed and annotated real-world agricultural datasets to improve model performance.  
+    - Implemented data augmentation and preprocessing to enhance model robustness.  
+    - Evaluated model performance using metrics such as IoU (Intersection over Union) and pixel accuracy.  
+    - Gained hands-on experience in Python, OpenCV, and deep learning frameworks.  
   [Link to code or project](#)
 
-- **CIA: AI-Driven Emotion Classification for Content Intelligence Analysis**  
+- **CIA: AI-Driven Emotion Classification for Content Intelligence Analysis**
+    - Developed a modular Python package for automated emotion detection from video/audio inputs.
+    - Used Docker to containerize the whole package supporting deployment, training, evaluation, and inference.
+    - Deployed the application on Azure and local servers using Docker and Portainer for scalability and portability.
+    - Implemented MLOps best practices with Azure DevOps, CI/CD, monitoring, and automated retraining.
   [Link to code or project](#)
 
 - **Emotion Recognition in Real-World Data: MarketResponse Facial Expression Classification**  
-  - Built a classification model to recognize 7 facial expressions using machine learning.  
-  - Worked with real-world data to improve emotion-based user analysis.  
-  - Gained practical experience in data preprocessing, model training, and evaluation.  
+    - Built a classification model to recognize 7 facial expressions using machine learning.  
+    - Worked with real-world data to improve emotion-based user analysis.  
+    - Gained practical experience in data preprocessing, model training, and evaluation.  
   [Link to code or project](#)
 
 ---
