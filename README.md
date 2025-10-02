@@ -65,4 +65,4 @@ Welcome to my GitHub portfolio! Here you’ll find a selection of my projects, s
 ## 📚 About Me
 
 - 🔭 Currently working on: ObjectivEye, enhancing AI-assisted human scoring in hiring.  
-- 🌱 Currently learning: [Technologies, languages, frameworks]
+- 🌱 Currently learning: [LLMs in the context of hiring, risk analysis, new frameworks]
