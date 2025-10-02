@@ -28,8 +28,14 @@ Welcome to my GitHub portfolio! Here you’ll find a selection of my projects, s
 
 ## 💻 Projects
 
-- **🧠 ObjectivEye: AI-assisted Human Scoring in Hiring (Current)**  
-  [Link to code or project](#)
+- **🧠 ObjectivEye: AI-assisted Human Scoring in Hiring (Current)**
+    - Currently developing an AI-assisted scoring pipeline that combines human evaluations with machine learning recommendations.
+    - Working on NLP-based methods to analyze candidate responses and enhance fairness in hiring decisions.
+    - Exploring approaches to reduce bias and improve inter-rater consistency in candidate assessments.
+    - Engaged in scoping and requirement definition to align project outcomes with client needs.
+    - Applying risk management practices to address challenges around data quality, bias, and compliance.
+    - Collaborating in a team setting to integrate technical solutions with client expectations.
+    - Actively using Azure cloud tools to support data handling, collaboration, and project management.
 
 - **🌱 Automated Plant Segmentation for NPEC: Enhancing Crop Analysis and Monitoring Using Computer Vision**  
     - Developed a computer vision model to segment plants in Petri dishes for precise crop monitoring.  
@@ -46,6 +52,7 @@ Welcome to my GitHub portfolio! Here you’ll find a selection of my projects, s
     - Deployed the application on Azure and local servers using Docker and Portainer for scalability and portability.
     - Implemented MLOps best practices with Azure DevOps, CI/CD, monitoring, and automated retraining.
   [Link to code or project](https://github.com/ZakariaeElmoumni/Zakariae_Elmoumni/tree/main/CIA_text_emotion_classification)
+
 
 - **Emotion Recognition in Real-World Data: MarketResponse Facial Expression Classification**  
     - Built a classification model to recognize 7 facial expressions using machine learning.  
