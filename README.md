@@ -51,7 +51,7 @@ Welcome to my GitHub portfolio! Here you’ll find a selection of my projects, s
     - Built a classification model to recognize 7 facial expressions using machine learning.  
     - Worked with real-world data to improve emotion-based user analysis.  
     - Gained practical experience in data preprocessing, model training, and evaluation.  
-  [Link to code or project](https://github.com/ZakariaeElmoumni/Zakariae_Elmoumni/tree/main/Emotion%20classification)
+  [Link to code or project](https://github.com/ZakariaeElmoumni/Zakariae_Elmoumni/tree/main/Face_expression_classification)
 
 ---
 
