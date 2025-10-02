@@ -37,6 +37,7 @@ Welcome to my GitHub portfolio! Here you’ll find a selection of my projects, s
     - Collaborating in a team setting to integrate technical solutions with client expectations.
     - Actively using Azure cloud tools to support data handling, collaboration, and project management.
 
+
 - **🌱 Automated Plant Segmentation for NPEC: Enhancing Crop Analysis and Monitoring Using Computer Vision**  
     - Developed a computer vision model to segment plants in Petri dishes for precise crop monitoring.  
     - Leveraged deep learning techniques (e.g., U-Net, Mask R-CNN) for accurate plant segmentation.  
@@ -45,6 +46,7 @@ Welcome to my GitHub portfolio! Here you’ll find a selection of my projects, s
     - Evaluated model performance using different metrics and pixel accuracy.  
     - Gained hands-on experience in Python, OpenCV, and deep learning frameworks.  
   [Link to code or project](#)
+
 
 - **CIA: AI-Driven Emotion Classification for Content Intelligence Analysis**
     - Developed a modular Python package for automated emotion detection from video/audio inputs.
