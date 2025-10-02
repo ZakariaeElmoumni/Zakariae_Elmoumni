@@ -45,7 +45,7 @@ Welcome to my GitHub portfolio! Here you’ll find a selection of my projects, s
     - Used Docker to containerize the whole package supporting deployment, training, evaluation, and inference.
     - Deployed the application on Azure and local servers using Docker and Portainer for scalability and portability.
     - Implemented MLOps best practices with Azure DevOps, CI/CD, monitoring, and automated retraining.
-  [Link to code or project](#)
+  [Link to code or project](https://github.com/ZakariaeElmoumni/Zakariae_Elmoumni/tree/main/CIA_text_emotion_classification)
 
 - **Emotion Recognition in Real-World Data: MarketResponse Facial Expression Classification**  
     - Built a classification model to recognize 7 facial expressions using machine learning.  
